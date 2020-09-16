@@ -1,1 +1,1 @@
-# cutural_fixes
+# cultural_fixes
